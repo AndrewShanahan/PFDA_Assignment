@@ -12,6 +12,14 @@ This repository has been created and edit by way of using jupyter notebooks.<br>
 
 This project analyses data from an Airbnb dataset for Dublin, Ireland and analysis statistical analysis on certain variables in addition to similar analysis on a synthesised dataset. To get started, the notebook is found in the following link and contains all the analysis for this project; https://github.com/AndrewShanahan/PFDA_Assignment/blob/main/PfDA_Assignment.ipynb<br>
 
+From the Airbnb dataset, I have identified 5 variables that I have decided to focus on and analyse:
+* host_id (integer)
+* latitute (integer)
+* longitude (integer)
+* price (object)
+* review_scores_rating (float)
+
+
 The references section below may be of use to users in order to help with understanding of project.
 
 ### System Requirments<br>
@@ -27,29 +35,39 @@ https://docs.jupyter.org/en/latest/install.html<br>
 The following link provides information on how to launch Jupyter notebook from a terminal.<br>
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html<br>
 
-### References:
-
-[1] AirBNB - http://insideairbnb.com/get-the-data/<br> 
+### References:<br>
+Dataset:<br>
+[01] AirBNB - http://insideairbnb.com/get-the-data/<br> 
 Datacamp - numerous courses/tracks completed over last number of months have supported this exercise<br>
-[2] Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
-Software Freedom Conservancy. Git.
-https://git-scm.com/.
 
+Python/General:<br>
+[02] Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
+Software Freedom Conservancy. Git.<br>
+https://git-scm.com/.<br>
+[03] Datacamp - https://www.datacamp.com/<br>
+[04] W3Schools - https://www.w3schools.com/python/default.asp<br>
+[05] Stackoverflow - https://stackoverflow.com/<br>
 
 Data Synthesis:<br>
-[3] Lecturer video: https://web.microsoftstream.com/video/84fb76a5-0c81-4ac9-8548-d8a6ed609366<br>
-[4] https://www.simplilearn.com/top-python-libraries-for-data-science-article#7_scikitlearn<br>
-[5] https://scikit-learn.org/stable/<br>
-[] https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/#:~:text=Basic%20Syntax%20for%20Defining%20a,function%20to%20do%20for%20you.<br>
-[] https://www.projectpro.io/recipes/create-simulated-data-for-classification-in-python<br>
+[03] Lecturer video: https://web.microsoftstream.com/video/84fb76a5-0c81-4ac9-8548-d8a6ed609366<br>
+[04] https://www.simplilearn.com/top-python-libraries-for-data-science-article#7_scikitlearn<br>
+[05] https://scikit-learn.org/stable/<br>
+[06]https://scikit-learn.org/stable/supervised_learning.html#supervised-learning<br>
+[07] https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/#:~:text=Basic%20Syntax%20for%20Defining%20a,function%20to%20do%20for%20you.<br>
+[08] https://www.projectpro.io/recipes/create-simulated-data-for-classification-in-python<br>
+[09] https://www.geeksforgeeks.org/how-to-create-simulated-data-for-classification-in-python/<br>
+[10] https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922<br>
+[11] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
+
+
 Readme file editing:<br>
 [6] https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
-[7] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
+[7] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes<br>
 ATU:<br>
-[] Software Freedom Conservancy. Git. https://git-scm.com/
-[] https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf
-Inspiration:
-[] Karsten Jeschkies: https://github.com/jeschkies/gensim
+[] Software Freedom Conservancy. Git. https://git-scm.com/<br>
+[] https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf<br>
+Inspiration:<br>
+[] Karsten Jeschkies: https://github.com/jeschkies/gensim<br>
 
 
 
