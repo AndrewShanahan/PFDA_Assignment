@@ -19,6 +19,8 @@ From the Airbnb dataset, I have identified 5 variables that I have decided to fo
 * price (object)
 * review_scores_rating (float)
 
+Please note that as the project has evolved I have decided to ustilise some other variables, for example; plotting graphs and charts and data synthesis.
+
 
 The references section below may be of use to users in order to help with understanding of project.
 
@@ -47,17 +49,20 @@ Python/General:<br>
 [05] W3Schools - https://www.w3schools.com/python/default.asp<br>
 [06] Stackoverflow - https://stackoverflow.com/<br>
 [07] Numpy/Random generator - https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html#numpy.random.Generator.normal<br>
+[08] Plot labels, titles, legend - lecturer video - https://web.microsoftstream.com/video/10974869-e53e-4621-961e-6a6922203374<br>
 
 Data Synthesis:<br>
-[08] Lecturer video - https://web.microsoftstream.com/video/84fb76a5-0c81-4ac9-8548-d8a6ed609366<br>
-[09] https://www.simplilearn.com/top-python-libraries-for-data-science-article#7_scikitlearn<br>
-[10] https://scikit-learn.org/stable/<br>
-[11] https://scikit-learn.org/stable/supervised_learning.html#supervised-learning<br>
-[12] https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/#:~:text=Basic%20Syntax%20for%20Defining%20a,function%20to%20do%20for%20you.<br>
-[13] https://www.projectpro.io/recipes/create-simulated-data-for-classification-in-python<br>
-[14] https://www.geeksforgeeks.org/how-to-create-simulated-data-for-classification-in-python/<br>
-[15] https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922<br>
-[16] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
+[09] Lecturer video - https://web.microsoftstream.com/video/84fb76a5-0c81-4ac9-8548-d8a6ed609366<br>
+[10] https://www.simplilearn.com/top-python-libraries-for-data-science-article#7_scikitlearn<br>
+[11] https://scikit-learn.org/stable/<br>
+[12] https://scikit-learn.org/stable/supervised_learning.html#supervised-learning<br>
+[13] https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/#:~:text=Basic%20Syntax%20for%20Defining%20a,function%20to%20do%20for%20you.<br>
+[14] https://www.projectpro.io/recipes/create-simulated-data-for-classification-in-python<br>
+[15] https://www.geeksforgeeks.org/how-to-create-simulated-data-for-classification-in-python/<br>
+[16] https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922<br>
+[17] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
+[18] Troubleshooting - https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead<br>
+
 
 
 Readme file editing:<br>
