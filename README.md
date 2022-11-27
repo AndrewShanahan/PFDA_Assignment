@@ -41,28 +41,29 @@ Dataset:<br>
 Datacamp - numerous courses/tracks completed over last number of months have supported this exercise<br>
 
 Python/General:<br>
-[02] Udemy course: https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
-Software Freedom Conservancy. Git.<br>
-https://git-scm.com/.<br>
-[03] Datacamp - https://www.datacamp.com/<br>
-[04] W3Schools - https://www.w3schools.com/python/default.asp<br>
-[05] Stackoverflow - https://stackoverflow.com/<br>
+[02] Udemy course - https://www.udemy.com/course/the-modern-python3-bootcamp/learn/lecture/8680110?start=94#overview<br>
+[03] Software Freedom Conservancy. Git - https://git-scm.com/.<br>
+[04] Datacamp - https://www.datacamp.com/<br>
+[05] W3Schools - https://www.w3schools.com/python/default.asp<br>
+[06] Stackoverflow - https://stackoverflow.com/<br>
+[07] Numpy/Random generator - https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.normal.html#numpy.random.Generator.normal<br>
 
 Data Synthesis:<br>
-[03] Lecturer video: https://web.microsoftstream.com/video/84fb76a5-0c81-4ac9-8548-d8a6ed609366<br>
-[04] https://www.simplilearn.com/top-python-libraries-for-data-science-article#7_scikitlearn<br>
-[05] https://scikit-learn.org/stable/<br>
-[06]https://scikit-learn.org/stable/supervised_learning.html#supervised-learning<br>
-[07] https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/#:~:text=Basic%20Syntax%20for%20Defining%20a,function%20to%20do%20for%20you.<br>
-[08] https://www.projectpro.io/recipes/create-simulated-data-for-classification-in-python<br>
-[09] https://www.geeksforgeeks.org/how-to-create-simulated-data-for-classification-in-python/<br>
-[10] https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922<br>
-[11] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
+[08] Lecturer video - https://web.microsoftstream.com/video/84fb76a5-0c81-4ac9-8548-d8a6ed609366<br>
+[09] https://www.simplilearn.com/top-python-libraries-for-data-science-article#7_scikitlearn<br>
+[10] https://scikit-learn.org/stable/<br>
+[11] https://scikit-learn.org/stable/supervised_learning.html#supervised-learning<br>
+[12] https://www.freecodecamp.org/news/python-functions-define-and-call-a-function/#:~:text=Basic%20Syntax%20for%20Defining%20a,function%20to%20do%20for%20you.<br>
+[13] https://www.projectpro.io/recipes/create-simulated-data-for-classification-in-python<br>
+[14] https://www.geeksforgeeks.org/how-to-create-simulated-data-for-classification-in-python/<br>
+[15] https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922<br>
+[16] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
 
 
 Readme file editing:<br>
-[6] https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
-[7] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes<br>
+[17] https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
+[18] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes<br>
+
 ATU:<br>
 [] Software Freedom Conservancy. Git. https://git-scm.com/<br>
 [] https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf<br>
