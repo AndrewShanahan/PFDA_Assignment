@@ -12,14 +12,14 @@ This repository has been created and edit by way of using jupyter notebooks.<br>
 
 This project analyses data from an Airbnb dataset for Dublin, Ireland and analysis statistical analysis on certain variables in addition to similar analysis on a synthesised dataset. To get started, the notebook is found in the following link and contains all the analysis for this project; https://github.com/AndrewShanahan/PFDA_Assignment/blob/main/PfDA_Assignment.ipynb<br>
 
-From the Airbnb dataset, I have identified 5 variables that I have decided to focus on and analyse:
-* host_id (integer)
-* latitute (integer)
-* longitude (integer)
-* price (object)
-* review_scores_rating (float)
+From the Airbnb dataset, I have identified 5 variables that I have decided to focus on and analyse:<br>
+* host_id (integer)<br>
+* host_listings_count (float)<br>
+* reviews_per_month (float)<br>
+* review_scores_rating (float)<br>
+* price (object)<br>
 
-Please note that as the project has evolved I have decided to ustilise some other variables, for example; plotting graphs and charts and data synthesis.
+Please note that as the project has evolved I have decided to ustilise some other variables, for example; plotting graphs and charts and data synthesis.<br>
 
 
 The references section below may be of use to users in order to help with understanding of project.
