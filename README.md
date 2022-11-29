@@ -62,6 +62,8 @@ Data Synthesis:<br>
 [16] https://towardsdatascience.com/https-medium-com-faizanahemad-generating-synthetic-classification-data-using-scikit-1590c1632922<br>
 [17] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
 [18] Troubleshooting - https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead<br>
+[19] https://stackoverflow.com/questions/22071987/generate-random-array-of-floats-between-a-range<br>
+
 
 
 
