@@ -65,7 +65,8 @@ Data Synthesis:<br>
 [19] https://stackoverflow.com/questions/22071987/generate-random-array-of-floats-between-a-range<br>
 
 
-
+Jupyter Notebooks:<br>
+[] https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter
 
 Readme file editing:<br>
 [17] https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
