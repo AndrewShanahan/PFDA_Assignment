@@ -6,7 +6,7 @@
 
 This repository has been created as part of the course work for the Programming for Data Analysis module in the Higher Diploma in Computer Programming in Data Analytics provided by Atlantic Technical University.<br>
 
-### Purspose<br>
+### Purpose<br>
 
 This repository has been created and edit by way of using jupyter notebooks.<br>
 
@@ -17,7 +17,7 @@ From the Airbnb dataset, I have identified 5 variables that I have decided to fo
 * host_listings_count (float)<br>
 * reviews_per_month (float)<br>
 * review_scores_rating (float)<br>
-* price (object)<br>
+* price (object) - Please note, during the project I had some instances where an object was not the most useful data type, in the spirit of good time keeping I amended this to a float rather than performing a task to remove any symbols (i.e. €,$,£ etc.)<br>
 
 Please note that as the project has evolved I have decided to ustilise some other variables, for example; plotting graphs and charts and data synthesis.<br>
 
@@ -63,8 +63,11 @@ Data Synthesis:<br>
 [17] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
 [18] Troubleshooting - https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead<br>
 [19] https://stackoverflow.com/questions/22071987/generate-random-array-of-floats-between-a-range<br>
+[] https://www.w3schools.com/python/ref_random_uniform.asp<br>
+[] https://en.wikipedia.org/wiki/NumPy<br>
 
 
+br
 Jupyter Notebooks:<br>
 [] https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter
 
