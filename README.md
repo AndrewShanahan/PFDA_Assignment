@@ -66,8 +66,9 @@ Data Synthesis:<br>
 [] https://www.w3schools.com/python/ref_random_uniform.asp<br>
 [] https://en.wikipedia.org/wiki/NumPy<br>
 
+Distribution:
+[] https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.lognormal.html#numpy.random.Generator.lognormal<br>
 
-br
 Jupyter Notebooks:<br>
 [] https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter
 
