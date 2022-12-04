@@ -8,7 +8,7 @@ This repository has been created as part of the course work for the Programming 
 
 ### Purpose<br>
 
-This repository has been created and edit by way of using jupyter notebooks.<br>
+This repository has been created and edit by way of using Jupyter Notebooks.<br>
 
 This project analyses data from an Airbnb dataset for Dublin, Ireland and analysis statistical analysis on certain variables in addition to similar analysis on a synthesised dataset. To get started, the notebook is found in the following link and contains all the analysis for this project; https://github.com/AndrewShanahan/PFDA_Assignment/blob/main/PfDA_Assignment.ipynb<br>
 
@@ -17,24 +17,24 @@ From the Airbnb dataset, I have identified 5 variables that I have decided to fo
 * host_listings_count (float)<br>
 * reviews_per_month (float)<br>
 * review_scores_rating (float)<br>
-* price (object) - Please note, during the project I had some instances where an object was not the most useful data type, in the spirit of good time keeping I amended this to a float rather than performing a task to remove any symbols (i.e. €,$,£ etc.)<br>
+* price (object) - Please note, during the project I had some instances where an object was not the most useful data type, in the spirit of good time keeping I amended this to a float rather than performing a task to remove any symbols (i.e. €,$,£ etc.).<br>
 
-Please note that as the project has evolved I have decided to ustilise some other variables, for example; plotting graphs and charts and data synthesis.<br>
+Please note that as the project has evolved I have decided to utilise some other variables, for example; plotting graphs and charts and data synthesis.<br>
 
 
 The references section below may be of use to users in order to help with understanding of project.
 
-### System Requirments<br>
+### System Requirements<br>
 
-To run or modify the notebooks on a local machine requires the latest version of Python, Anaconda is an easy to use version available on Windows, Mac or Linux operating systems. Alternatively there are a number of web based version available like Jupyter Notebooks which has been ultilised during this project.<br>
+To run or modify the notebooks on a local machine requires the latest version of Python, Anaconda is an easy to use version available on Windows, Mac or Linux operating systems. Alternatively, there are a number of web based version available like Jupyter Notebooks which has been utilised during this project.<br>
 
-In formation on how to install and run jupyter notebooks can be found through the following link:<br>
+Information on how to install and run Jupyter Notebooks can be found through the following link:<br>
 https://docs.jupyter.org/en/latest/install.html<br>
 
 
 ### Running Jupyter Notebooks
 
-The following link provides information on how to launch Jupyter notebook from a terminal.<br>
+The following link provides information on how to launch Jupyter Notebook from a terminal.<br>
 https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html<br>
 
 ### References:<br>
@@ -63,25 +63,21 @@ Data Synthesis:<br>
 [17] https://stackabuse.com/generating-synthetic-data-with-numpy-and-scikit-learn/<br>
 [18] Troubleshooting - https://stackoverflow.com/questions/45554008/error-in-python-script-expected-2d-array-got-1d-array-instead<br>
 [19] https://stackoverflow.com/questions/22071987/generate-random-array-of-floats-between-a-range<br>
-[] https://www.w3schools.com/python/ref_random_uniform.asp<br>
-[] https://en.wikipedia.org/wiki/NumPy<br>
+[20] https://www.w3schools.com/python/ref_random_uniform.asp<br>
+[21] https://en.wikipedia.org/wiki/NumPy<br>
 
 Distribution:
-[] https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.lognormal.html#numpy.random.Generator.lognormal<br>
+[22] https://numpy.org/doc/stable/reference/random/generated/numpy.random.Generator.lognormal.html#numpy.random.Generator.lognormal<br>
 
 Jupyter Notebooks:<br>
-[] https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter
+[23] https://stackoverflow.com/questions/48655801/tables-in-markdown-in-jupyter<br>
 
 Readme file editing:<br>
-[17] https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
-[18] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes<br>
+[24] https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e<br>
+[25] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes<br>
 
 ATU:<br>
-[] Software Freedom Conservancy. Git. https://git-scm.com/<br>
-[] https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf<br>
+[26] Software Freedom Conservancy. Git. https://git-scm.com/<br>
+[27] https://www.atu.ie/sites/default/files/2022-08/Student%20Code_Final_August_2022.pdf<br>
 Inspiration:<br>
-[] Karsten Jeschkies: https://github.com/jeschkies/gensim<br>
-
-
-
-
+[28] Karsten Jeschkies: https://github.com/jeschkies/gensim<br>
